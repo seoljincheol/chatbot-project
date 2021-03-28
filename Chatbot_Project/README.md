@@ -1,6 +1,6 @@
 # **MultiChatBot** : chatbot heroes
 <br>
-기존 일상대화 챗봇은 1:1 대화 형태가 대부분임.
+기존 일상대화 챗봇은 1:1 대화 형태가 대부분임.<br>
 캐릭터가 다른 두 챗봇을 모델링하여 사용자와 챗봇 사이의 대화를 역동적으로 구현함.
 
 <br>
@@ -28,6 +28,8 @@
 ![일상 연애](https://user-images.githubusercontent.com/74548737/110240680-73d09600-7f90-11eb-9a7a-f40e09f63842.jpg)
 <br><br>
 
+## 참고
+https://github.com/haven-jeon/KoBART-chatbot
 
 
 
