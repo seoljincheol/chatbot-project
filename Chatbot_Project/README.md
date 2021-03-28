@@ -1,8 +1,10 @@
 # **MultiChatBot** : chatbot heroes
 <br>
 기존 일상대화 챗봇은 1:1 대화 형태가 대부분임.<br>
-캐릭터가 다른 두 챗봇을 모델링하여 사용자와 챗봇 사이의 대화를 역동적으로 구현함.
-
+캐릭터가 다른 두 챗봇을 모델링하여 사용자와 챗봇 사이의 대화를 역동적으로 구현함.<br>
+<br>
+kkangtongi - 연애상담 데이터를 기반으로 훈련. '~라능' 말투를 주로 사용하는 캐릭터 부여.<br>
+Baqui - 
 <br>
 <br>
 
@@ -25,8 +27,8 @@
 ![일상 연애](https://user-images.githubusercontent.com/74548737/110240680-73d09600-7f90-11eb-9a7a-f40e09f63842.jpg)
 <br><br>
 
-# 시연
-
+## 아쉬운 점
+일상대화 훈련 데이터가 부족하여 다양한 대화상황에 적절히 반응하지 못하고, 문법적 완성도가 떨어짐.<br>
 
 ## 참고
 https://github.com/haven-jeon/KoBART-chatbot
